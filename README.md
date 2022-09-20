@@ -1,4 +1,4 @@
 # OOP-Lab-1
-#FifteenPuzzle
+FifteenPuzzle
 
 Simple game, works with wasd
